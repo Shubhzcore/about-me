@@ -23,4 +23,4 @@ Welcome to my GitHub profile!🚀
 - Share my work and progress with the developer community.
 
 🤝 Connect With Me
-- **GitHub:** [Your GitHub Profile](https://github.com/Shubhzcore)
+- **GitHub:** [GitHub Profile](https://github.com/Shubhzcore)
